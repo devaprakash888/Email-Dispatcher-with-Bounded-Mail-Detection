@@ -30,7 +30,7 @@ Clone the repository:
 
 Copy code
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/devaprakash888/Email-Dispatcher-with-Spam-Detection.git
 cd your-repo
 ```
 ## Run the application:
