@@ -27,14 +27,15 @@ pip install streamlit pandas smtplib openpyxl
 
 ## Instructions
 Clone the repository:
-```bash
+
 Copy code
+```bash
 git clone https://github.com/yourusername/your-repo.git
 cd your-repo
 ```
 ## Run the application:
-```bash
 Copy code
+```bash
 streamlit run app.py
 ```
 ## License
